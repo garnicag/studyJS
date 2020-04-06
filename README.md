@@ -24,3 +24,6 @@ https://lidiaramirez.github.io/guia-rapida-flexbox/
 
 ### Learn RxJS
 http://blog.enriqueoriol.com/2019/03/aprende-rxjs-1.html
+
+### La biblia de NodeJS
+https://www.udemy.com/course/la-biblia-de-nodejs/learn/lecture/17668192#overview
